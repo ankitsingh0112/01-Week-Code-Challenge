@@ -1,5 +1,5 @@
 # 30-Day-Code-Challenge
-Hello Everone, 
+Hello Everyone, 
 I have started a 30-Day-Code-Challenge to improve my coding skill
 My Daily Limit is :-
   ~ minimum 2 question
