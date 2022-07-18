@@ -25,9 +25,7 @@ int main()
     sortArray(arr, n);
     cout << endl;
     cout << "Largest " << k << " elements : ";
-    for (int i = 0; i < k; i++)
-        cout << arr[i] << " ";
-    // printArray(arr, k);
+    printArray(arr, k);
 
     return 0;
 }
