@@ -26,6 +26,8 @@ int main()
             {
                 if(a[i]== b[j] && a[i] == c[k])
                     cout << a[i] << "\t";
+                else
+                    cout << "No common elements are found"<<endl;
             }
         }
     }
