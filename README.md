@@ -1,6 +1,6 @@
-# 30-Day-Code-Challenge
+# 01-Week-Code-Challenge
 Hello Everyone, 
-I have started a 30-Day-Code-Challenge to improve my coding skill
+I have started a 01-Week-Code-Challenge to improve my coding skill
 My Daily Limit is :-
   ~ minimum 2 question
   ~ maximum 5 question
